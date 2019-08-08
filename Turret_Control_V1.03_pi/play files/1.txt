@@ -1,0 +1,36 @@
+#activating startup sequence
+# 5 second startup delay
+delay 5000
+#play activating from programmables
+soundp 5
+delay 2000
+elde 1000
+elig 255
+delay 1200
+elas 1
+delay 500
+#look around sequence
+gpos 20 127
+delay 1000
+gpos 240 240
+delay 500
+gpos 127 20
+delay 300
+gpos 20 127
+delay 1200
+gpos 20 240
+delay 700
+gpos 160 60
+delay 1000
+gpos 230 150
+delay 800
+gpos 230 110
+delay 300
+gpos 230 150
+delay 1000
+#center and open
+gpos 127 127
+delay 500
+open 1
+#elig 0
+#elas 0

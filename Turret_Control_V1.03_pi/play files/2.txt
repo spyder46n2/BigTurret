@@ -1,0 +1,26 @@
+#basic movement sequence
+#delay 5000
+#move pan
+gpos 10 127
+delay 2500
+gpos 240 127
+delay 4000
+gpos 127 127
+delay 2500
+#move tilt
+gpos 127 10
+delay 1500
+gpos 127 240
+delay 2000
+gpos 127 127
+delay 2000
+#move hourglasss
+gpos 15 15
+delay 2500
+gpos 15 220
+delay 1500
+gpos 240 15
+delay 4000
+gpos 240 220
+delay 1500
+gpos 127 127

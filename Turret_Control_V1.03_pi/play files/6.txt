@@ -1,0 +1,18 @@
+#firing range test
+delay 5000
+gpos 20 100
+delay 3000
+fpwr 0
+fire 1
+delay 2000
+gpos 80 180
+delay 3000
+gpos 127 127
+delay 3000
+gpos 170 180
+delay 3000
+gpos 230 120
+delay 3000
+fire 0
+delay 2000
+gpos 127 127

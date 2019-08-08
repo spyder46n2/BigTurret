@@ -1,0 +1,10 @@
+#ow
+elde 0
+elig 150
+delay 500
+soundp 6
+delay 250
+elde 120
+elig 255
+delay 250
+elig 150

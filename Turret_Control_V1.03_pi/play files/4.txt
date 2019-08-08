@@ -1,0 +1,27 @@
+#goodbye
+elde 100
+elig 150
+elas 1
+gpos 20 20
+delay 5000
+soundp 1
+delay 300
+elde 100
+elig 255
+delay 150
+elde 100
+elig 150
+delay 100
+elde 100
+elig 255
+delay 200
+elde 100
+elig 150
+delay 1000
+open 0
+gpos 127 127
+delay 6000
+elas 0
+elde 1000
+elig 0
+

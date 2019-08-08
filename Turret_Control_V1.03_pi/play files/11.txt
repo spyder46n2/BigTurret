@@ -1,0 +1,14 @@
+#good bye
+elde 0
+elig 150
+delay 500
+soundp 1
+delay 300
+elde 100
+elig 255
+delay 100
+elig 150
+delay 100
+elig 255
+delay 150
+elig 150

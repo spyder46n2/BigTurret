@@ -1,0 +1,14 @@
+#hello
+elde 0
+elig 150
+delay 500
+soundp 0
+delay 250
+elde 50
+elig 255
+delay 50
+elig 150
+delay 100
+elig 255
+delay 50
+elig 150
